@@ -11,7 +11,7 @@
         android:background="@color/colorPrimaryDark" />
 
     <Spinner
-        android:id="@+id/first_number1"
+        android:id="@+id/fifth_number1"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:background="@android:color/transparent"
@@ -24,7 +24,7 @@
         android:background="@color/colorPrimaryDark" />
 
     <Spinner
-        android:id="@+id/first_number2"
+        android:id="@+id/fifth_number2"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:background="@android:color/transparent"
@@ -37,7 +37,7 @@
         android:background="@color/colorPrimaryDark" />
 
     <Spinner
-        android:id="@+id/first_number3"
+        android:id="@+id/fifth_number3"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:background="@android:color/transparent"
@@ -50,7 +50,7 @@
         android:background="@color/colorPrimaryDark" />
 
     <Spinner
-        android:id="@+id/first_number4"
+        android:id="@+id/fifth_number4"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:background="@android:color/transparent"
@@ -63,7 +63,7 @@
         android:background="@color/colorPrimaryDark" />
 
     <Spinner
-        android:id="@+id/first_number5"
+        android:id="@+id/fifth_number5"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:background="@android:color/transparent"
@@ -76,7 +76,7 @@
         android:background="@color/colorPrimaryDark" />
 
     <Spinner
-        android:id="@+id/first_number6"
+        android:id="@+id/fifth_number6"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:background="@android:color/transparent"
